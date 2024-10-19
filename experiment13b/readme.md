@@ -1,5 +1,5 @@
 # 13b program file
-[program file](program.png.jpg)
+[program file](program.jpg)
 
 # 13b sample output
 [sample output](sampleoutput.png)
